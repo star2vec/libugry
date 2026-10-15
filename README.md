@@ -1,6 +1,18 @@
 # libugry (library + bug haha get it get it </3)
 
-(DONT WORRY I WILL MODIFY THIS AI SLOP AHH README I JUST WANTED TO POST THE REPO FASTER + TO HAVE THE QUICKSTART ON HERE!!)
+TIRED of endless bugs from stupid library conflicts?? NO MORE >:D this evening i built an app that queries a Context Graph (built w @neo4j) that maps out OS-specific crashes + CVEs + hidden constraints. it outputs full reasoning for the versions it picks to keep your env safe ^_~
+
+<img width="3674" height="2200" alt="HEsw41TWYAAbSgK" src="https://github.com/user-attachments/assets/97d14717-431b-492d-b44b-f03334310953" />
+
+<img width="2998" height="1694" alt="HEsw412bIAAB4UV" src="https://github.com/user-attachments/assets/5351d047-56b2-4098-ab97-3133fe5eb2ed" />
+
+<img width="3670" height="2198" alt="HEsw416a8AA63pi" src="https://github.com/user-attachments/assets/6a9c2a80-7039-40aa-a459-2132f5d15fd2" />
+
+<img width="3674" height="2200" alt="HEsw41TWYAAbSgK" src="https://github.com/user-attachments/assets/07a9f92e-1740-40ea-811d-adb591a32cab" />
+
+
+
+
 
 Context-aware Python library dependency advisor. Where pip asks "does this version exist?", libugry asks "which version should I use on **this exact machine**, and **why**?"
 
